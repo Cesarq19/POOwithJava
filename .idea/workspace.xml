@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82433387-0342-49ea-9fc8-5eaafc5c7a05" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POOwithJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/InheritanceChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/vehicles/Coupe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/vehicles/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Inheritance/vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_cake/BirthdayCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_cake/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_cake/TasteTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge_cake/WeddingCake.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LNpX4fyZT2kEx9gtv0ZfutbHO8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.TasteTester">
+    <configuration name="Garage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.vehicles.Garage" />
+      <module name="POOwithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.vehicles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.InheritanceChecker" />
+      <module name="POOwithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TasteTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge_cake.TasteTester" />
+      <module name="POOwithJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge_cake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TasteTester" />
+        <item itemvalue="Application.Garage" />
+        <item itemvalue="Application.InheritanceChecker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82433387-0342-49ea-9fc8-5eaafc5c7a05" name="Changes" comment="" />
+      <created>1675721430388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675721430388</updated>
+    </task>
+    <servers />
+  </component>
+</project>
