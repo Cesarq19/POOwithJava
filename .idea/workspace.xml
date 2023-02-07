@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82433387-0342-49ea-9fc8-5eaafc5c7a05" name="Changes" comment="Inheritance in Java">
-      <change afterPath="$PROJECT_DIR$/src/abstraction/shape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/shape/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="82433387-0342-49ea-9fc8-5eaafc5c7a05" name="Changes" comment="Abstract and interfaces in Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,11 +114,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675725169714</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Abstract and interfaces in Java">
+      <created>1675783349765</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675783349765</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inheritance in Java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inheritance in Java" />
+    <MESSAGE value="Abstract and interfaces in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract and interfaces in Java" />
   </component>
 </project>
